@@ -55,4 +55,5 @@ if __name__ == '__main__':
     db.login('Tom',123456)
     db.close()
     
-    print("哈哈")
+print("哈哈")
+print("哈哈哈")
