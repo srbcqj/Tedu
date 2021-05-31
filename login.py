@@ -54,3 +54,5 @@ if __name__ == '__main__':
     # db.register('Tom',123456)
     db.login('Tom',123456)
     db.close()
+    
+    print("哈哈")
